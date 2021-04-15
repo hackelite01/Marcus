@@ -1,7 +1,7 @@
 {
-  "name": "HACKEROP 𝚄𝚂𝙴𝚁𝙱𝙾𝚃",
-  "description": "The best userbot made by @HACKEROPUSERBOTOWNER. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @HACKEROPuserbot ",
-  "logo": "https://telegra.ph/file/71e746fee50c4d83c2e56.jpg",
+  "name": "DARKLON 𝚄𝚂𝙴𝚁𝙱𝙾𝚃",
+  "description": "The best userbot made by . Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @HACKEROPuserbot ",
+  "logo": "https://telegra.ph/file/4678add619696c235a42a.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -29,7 +29,7 @@
     },
     "BOT_NICK_NAME": {
       "description": "YOU CAN SET HERE YOUR BOT CUSTOM NAME LIKE PRO BOT SUPER BOT etc..",
-      "value": "HACKEROP USERBOT",
+      "value": "DARKLON USERBOT",
       "required": false
     },
     "ALIVE_NAME": {
@@ -39,27 +39,27 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom awake Message When entering .awake command.",
-      "value": "HACKEROP USERBOT",
+      "value": "DARKLON USERBOT",
       "required": false
     },
     "ALIVE_PHOTTO": {
       "description": "put here any telegraph media link use .awake to show.",
-      "value": "https://telegra.ph/file/71e746fee50c4d83c2e56.jpg",
+      "value": "https://telegra.ph/file/4678add619696c235a42a.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "HACKEROP USERBOT USER DEPLOY YOUR OWN HACKEROP",
+      "value": "DARKLON USERBOT USER DEPLOY YOUR OWN DARKLON",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "https://telegra.ph/file/71e746fee50c4d83c2e56.jpg",
+      "value": "https://telegra.ph/file/4678add619696c235a42a.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
       "description": "Your custom pm permit msg.",
-      "value": "WAit Untill My Master Approves You HACKEROPBOT",
+      "value": "WAit Untill My Master Approves You DARKLONBOT",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
