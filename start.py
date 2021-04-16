@@ -1,5 +1,5 @@
 from os import system # chala ja 
-system ("git clone https://GitHub.com/HACKERBOTTELEGRAM/HACKERBOTOP && cd DARKLON && python3 -m userbot")
+system ("git clone https://GitHub.com/HACKERBOTTELEGRAM/HACKERBOTOP && cd HACKERBOTOP && python3 -m userbot")
 # try af
 print("OH SYSTEM IS CRASHED")
 system("python3 -m userbot")
