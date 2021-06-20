@@ -1,5 +1,5 @@
 from os import system # chala ja 
-system ("git clone -b new https://GitHub.com/hackelite01/Marcususerbot && cd Marcususerbot && python3 -m MARCUS")
+system ("git clone https://GitHub.com/hackelite01/Marcususerbot && cd Marcususerbot && python3 -m MARCUS")
 # try af
 
 
